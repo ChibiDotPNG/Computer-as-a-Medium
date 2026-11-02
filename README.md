@@ -4,4 +4,4 @@
 
 ### Group Name: [Space Mage]
 
-### Group Members: [Ramiro Ortega]
+### Group Members: [Ramiro Ortega, Breanna Joubert]
