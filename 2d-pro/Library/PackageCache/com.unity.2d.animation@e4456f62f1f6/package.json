@@ -1,0 +1,41 @@
+{
+  "name": "com.unity.2d.animation",
+  "version": "10.2.4",
+  "unity": "6000.0",
+  "displayName": "2D Animation",
+  "description": "2D Animation provides all the necessary tooling and runtime components for skeletal animation using Sprites.",
+  "keywords": [
+    "2d",
+    "animation"
+  ],
+  "category": "2D",
+  "dependencies": {
+    "com.unity.2d.common": "9.1.2",
+    "com.unity.2d.sprite": "1.0.0",
+    "com.unity.collections": "1.2.4",
+    "com.unity.modules.animation": "1.0.0",
+    "com.unity.modules.uielements": "1.0.0"
+  },
+  "relatedPackages": {
+    "com.unity.2d.animation.tests": "10.2.4",
+    "com.unity.2d.common.tests": "9.1.2",
+    "com.unity.2d.psdimporter": "9.1.3"
+  },
+  "samples": [
+    {
+      "displayName": "Samples",
+      "description": "Various 2D Animation sample scenes to show different usage of the 2D Animation tooling for various outcomes.",
+      "path": "Samples~/AnimationSamples"
+    }
+  ],
+  "repository": {
+    "revision": "b81b8db9bef29aa0f6f00a16c4bfbfe1ae684977",
+    "type": "git",
+    "url": "https://github.cds.internal.unity3d.com/unity/2d.git"
+  },
+  "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.2d.animation@10.2/manual/index.html",
+  "_upm": {
+    "changelog": "### Fixed\n- Fix the Sprite Library Editor renaming the selected label when double-clicking the scroll bar of the labels grid view. (UUM-151668)\n- Fix Sprite Resolver Inspector resetting the Category to \"No Category\" when selecting a Category that contains no Labels. (UUM-145993)\n- Fix the Skinning Editor allocating increasing amounts of garbage every repaint while the Visibility panel is open. (UUM-147565)\n- Fix a \"No script asset for SpriteVisibilityToolData\" warning logged when undoing in Play Mode with a character open in the Skinning Editor, by giving each editor-only Skinning Cache object its own matching-named file so Unity can resolve its script. (UUM-147151)\n- Fix IK Manager 2D and the Limb, CCD and Fabrik Solver 2D components appearing under Scripts > UnityEngine.U2D.IK in the Add Component menu instead of 2D Animation. (UUM-150280)\n- Fix the SKINNED_SPRITE shader keyword being disabled on a shared material still in use by GPU-deformed Sprite Skins, when another Sprite Skin using the same material falls back to CPU deformation; keyword ownership is now reference-counted across deformation systems. (UUM-149658)\n- Fix the Categories title bar overlapping the category list, which could make the add category button unclickable, when the Sprite Library Editor window is resized to a short height. (UUM-151676)\n- Fix renaming a Category or Label ignoring keyboard input when the Sprite Library Editor window is not focused. (UUM-151677)\n- Fix the Skinning Editor writing a window-size dependent sub-pixel remainder from the Sprite Editor canvas' origin, scroll and zoom into authored bone and mesh coordinates, by snapping mouse input to a texture-pixel grid no coarser than one screen pixel. Coordinates are whole texture pixels at or below 100% zoom, and halves, quarters ... when zoomed in. (UUM-151700)\n- Fix SpriteSkin dereferencing freed Sprite buffers after the Sprite was changed in place, such as reimporting it with an instance in a loaded scene, which could crash the Editor. (UUM-150275)"
+  },
+  "_fingerprint": "e4456f62f1f6b1b5992ccb185445e4bb4d03618e"
+}
