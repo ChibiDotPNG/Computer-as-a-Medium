@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\brean\\OneDrive\\Documents\\GitHub\\Computer as a Medium\\2d-pro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEDCF1A-9395-CE66-B043-183CDC26F930}|Assembly-CSharp.csproj|c:\\users\\brean\\onedrive\\documents\\github\\computer as a medium\\2d-pro\\assets\\scripts\\heal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEDCF1A-9395-CE66-B043-183CDC26F930}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\heal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEDCF1A-9395-CE66-B043-183CDC26F930}|Assembly-CSharp.csproj|C:\\Users\\brean\\OneDrive\\Documents\\GitHub\\Computer as a Medium\\2d-pro\\assets\\scripts\\ouch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEDCF1A-9395-CE66-B043-183CDC26F930}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ouch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEDCF1A-9395-CE66-B043-183CDC26F930}|Assembly-CSharp.csproj|C:\\Users\\brean\\OneDrive\\Documents\\GitHub\\Computer as a Medium\\2d-pro\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEDCF1A-9395-CE66-B043-183CDC26F930}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEDCF1A-9395-CE66-B043-183CDC26F930}|Assembly-CSharp.csproj|C:\\Users\\brean\\OneDrive\\Documents\\GitHub\\Computer as a Medium\\2d-pro\\assets\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEDCF1A-9395-CE66-B043-183CDC26F930}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEDCF1A-9395-CE66-B043-183CDC26F930}|Assembly-CSharp.csproj|C:\\Users\\brean\\OneDrive\\Documents\\GitHub\\Computer as a Medium\\2d-pro\\assets\\scripts\\moveit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEDCF1A-9395-CE66-B043-183CDC26F930}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\moveit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ouch.cs",
+              "DocumentMoniker": "C:\\Users\\brean\\OneDrive\\Documents\\GitHub\\Computer as a Medium\\2d-pro\\Assets\\Scripts\\ouch.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ouch.cs",
+              "ToolTip": "C:\\Users\\brean\\OneDrive\\Documents\\GitHub\\Computer as a Medium\\2d-pro\\Assets\\Scripts\\ouch.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ouch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T21:08:30.766Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "heal.cs",
+              "DocumentMoniker": "C:\\Users\\brean\\OneDrive\\Documents\\GitHub\\Computer as a Medium\\2d-pro\\Assets\\Scripts\\heal.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\heal.cs",
+              "ToolTip": "C:\\Users\\brean\\OneDrive\\Documents\\GitHub\\Computer as a Medium\\2d-pro\\Assets\\Scripts\\heal.cs",
+              "RelativeToolTip": "Assets\\Scripts\\heal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T21:27:41.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\brean\\OneDrive\\Documents\\GitHub\\Computer as a Medium\\2d-pro\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\brean\\OneDrive\\Documents\\GitHub\\Computer as a Medium\\2d-pro\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T21:31:36.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "moveit.cs",
+              "DocumentMoniker": "C:\\Users\\brean\\OneDrive\\Documents\\GitHub\\Computer as a Medium\\2d-pro\\Assets\\Scripts\\moveit.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\moveit.cs",
+              "ToolTip": "C:\\Users\\brean\\OneDrive\\Documents\\GitHub\\Computer as a Medium\\2d-pro\\Assets\\Scripts\\moveit.cs",
+              "RelativeToolTip": "Assets\\Scripts\\moveit.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T20:04:07.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerHealth.cs",
+              "DocumentMoniker": "C:\\Users\\brean\\OneDrive\\Documents\\GitHub\\Computer as a Medium\\2d-pro\\Assets\\Scripts\\PlayerHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerHealth.cs",
+              "ToolTip": "C:\\Users\\brean\\OneDrive\\Documents\\GitHub\\Computer as a Medium\\2d-pro\\Assets\\Scripts\\PlayerHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerHealth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T20:48:09.169Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
