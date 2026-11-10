@@ -7,7 +7,6 @@ public class moveit : MonoBehaviour
     private float speedX = 0f;
     private float speedY = 0f;
     public Rigidbody2D rb;
-
     void Start()
     {
 
