@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\brean\\Downloads\\Documents\\GitHub\\Computer as a Medium\\2d-pro\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8CEDCF1A-9395-CE66-B043-183CDC26F930}|Assembly-CSharp.csproj|c:\\users\\brean\\downloads\\documents\\github\\computer as a medium\\2d-pro\\assets\\scripts\\playerhealth1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEDCF1A-9395-CE66-B043-183CDC26F930}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerhealth1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEDCF1A-9395-CE66-B043-183CDC26F930}|Assembly-CSharp.csproj|c:\\users\\brean\\downloads\\documents\\github\\computer as a medium\\2d-pro\\assets\\scripts\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEDCF1A-9395-CE66-B043-183CDC26F930}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8CEDCF1A-9395-CE66-B043-183CDC26F930}|Assembly-CSharp.csproj|C:\\Users\\brean\\Downloads\\Documents\\GitHub\\Computer as a Medium\\2d-pro\\assets\\scripts\\moveit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8CEDCF1A-9395-CE66-B043-183CDC26F930}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\moveit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,11 +19,7 @@
       "RelativeMoniker": "D:0:0:{8CEDCF1A-9395-CE66-B043-183CDC26F930}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ouch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CEDCF1A-9395-CE66-B043-183CDC26F930}|Assembly-CSharp.csproj|c:\\users\\brean\\downloads\\documents\\github\\computer as a medium\\2d-pro\\assets\\scripts\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CEDCF1A-9395-CE66-B043-183CDC26F930}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8CEDCF1A-9395-CE66-B043-183CDC26F930}|Assembly-CSharp.csproj|c:\\users\\brean\\downloads\\documents\\github\\computer as a medium\\2d-pro\\assets\\scripts\\bullettime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8CEDCF1A-9395-CE66-B043-183CDC26F930}|Assembly-CSharp.csproj|C:\\Users\\brean\\Downloads\\Documents\\GitHub\\Computer as a Medium\\2d-pro\\assets\\scripts\\bullettime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8CEDCF1A-9395-CE66-B043-183CDC26F930}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bullettime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -38,11 +42,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ouch.cs",
               "DocumentMoniker": "C:\\Users\\brean\\Downloads\\Documents\\GitHub\\Computer as a Medium\\2d-pro\\Assets\\Scripts\\ouch.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ouch.cs",
@@ -51,25 +55,37 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-04T21:08:30.766Z",
-              "IsPinned": true,
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerHealth1.cs",
+              "DocumentMoniker": "C:\\Users\\brean\\Downloads\\Documents\\GitHub\\Computer as a Medium\\2d-pro\\Assets\\Scripts\\PlayerHealth1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerHealth1.cs",
+              "ToolTip": "C:\\Users\\brean\\Downloads\\Documents\\GitHub\\Computer as a Medium\\2d-pro\\Assets\\Scripts\\PlayerHealth1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerHealth1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T19:26:39.653Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "PlayerAttack.cs",
               "DocumentMoniker": "C:\\Users\\brean\\Downloads\\Documents\\GitHub\\Computer as a Medium\\2d-pro\\Assets\\Scripts\\PlayerAttack.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerAttack.cs",
               "ToolTip": "C:\\Users\\brean\\Downloads\\Documents\\GitHub\\Computer as a Medium\\2d-pro\\Assets\\Scripts\\PlayerAttack.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerAttack.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwCoAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-18T04:01:35.219Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "BULLETTIME.cs",
               "DocumentMoniker": "C:\\Users\\brean\\Downloads\\Documents\\GitHub\\Computer as a Medium\\2d-pro\\Assets\\Scripts\\BULLETTIME.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BULLETTIME.cs",
@@ -77,12 +93,11 @@
               "RelativeToolTip": "Assets\\Scripts\\BULLETTIME.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-18T01:02:36.276Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-18T01:02:36.276Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "heal.cs",
               "DocumentMoniker": "C:\\Users\\brean\\Downloads\\Documents\\GitHub\\Computer as a Medium\\2d-pro\\Assets\\Scripts\\heal.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\heal.cs",
@@ -90,25 +105,23 @@
               "RelativeToolTip": "Assets\\Scripts\\heal.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-04T21:27:41.097Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-04T21:27:41.097Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "moveit.cs",
               "DocumentMoniker": "C:\\Users\\brean\\Downloads\\Documents\\GitHub\\Computer as a Medium\\2d-pro\\Assets\\Scripts\\moveit.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\moveit.cs",
               "ToolTip": "C:\\Users\\brean\\Downloads\\Documents\\GitHub\\Computer as a Medium\\2d-pro\\Assets\\Scripts\\moveit.cs",
               "RelativeToolTip": "Assets\\Scripts\\moveit.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAABAAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwA4AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-04T20:04:07.782Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-04T20:04:07.782Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "GameManager.cs",
               "DocumentMoniker": "C:\\Users\\brean\\Downloads\\Documents\\GitHub\\Computer as a Medium\\2d-pro\\Assets\\Scripts\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
@@ -120,7 +133,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "PlayerHealth.cs",
               "DocumentMoniker": "C:\\Users\\brean\\Downloads\\Documents\\GitHub\\Computer as a Medium\\2d-pro\\Assets\\Scripts\\PlayerHealth.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerHealth.cs",

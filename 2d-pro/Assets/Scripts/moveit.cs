@@ -13,8 +13,6 @@ public class moveit : MonoBehaviour
     public Sprite kRight;
     public Sprite kFront;
     public Sprite kBack;
-    public GameObject facing;
-    public 
     void Start()
     {
 
@@ -31,8 +29,7 @@ public class moveit : MonoBehaviour
         {
             speedX = -moveSpeed;
             spriteRenderer.sprite = kLeft;
-            //facing= new Position(-1);
-            //facing = new Rotate(90);
+
         }
         else if (Keyboard.current.dKey.isPressed)
         {

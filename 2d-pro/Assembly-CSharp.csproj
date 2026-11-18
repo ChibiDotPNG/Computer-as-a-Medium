@@ -67,6 +67,7 @@
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
     <Compile Include="Assets\Scripts\PlayerAttack.cs" />
     <Compile Include="Assets\Scripts\moveit.cs" />
+    <Compile Include="Assets\Scripts\EVILHEALTH.cs" />
     <Compile Include="Assets\Scripts\heal.cs" />
     <Compile Include="Assets\Scripts\GameManager.cs" />
   </ItemGroup>

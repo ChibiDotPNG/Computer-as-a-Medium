@@ -6,6 +6,7 @@ public class BULLETTIME : MonoBehaviour
     public float speed = 100f;
     public float destroyTime = 3f;
     public Rigidbody2D rb;
+    public EVILHEALTH evilhealth;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -18,4 +19,7 @@ public class BULLETTIME : MonoBehaviour
     {
         
     }
+
 }
+
+
