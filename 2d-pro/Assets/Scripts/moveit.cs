@@ -31,8 +31,8 @@ public class moveit : MonoBehaviour
         {
             speedX = -moveSpeed;
             spriteRenderer.sprite = kLeft;
-            facing= new Position(-1);
-            facing = new Rotate(90);
+            //facing= new Position(-1);
+            //facing = new Rotate(90);
         }
         else if (Keyboard.current.dKey.isPressed)
         {
