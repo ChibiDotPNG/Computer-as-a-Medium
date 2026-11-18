@@ -5,6 +5,7 @@ public class PlayerHealth : MonoBehaviour
 {
     public int health = 100;
     public TMP_Text healthText;
+    public GameObject player;
     void Start()
     {
         healthText.text = "Health: " + health;
@@ -14,5 +15,9 @@ public class PlayerHealth : MonoBehaviour
     void Update()
     {
         healthText.text = "Health: " + health;
+        if (health < 1)
+        {
+            player.SetActive(false);
+        }
     }
 }

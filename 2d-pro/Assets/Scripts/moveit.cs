@@ -7,6 +7,11 @@ public class moveit : MonoBehaviour
     private float speedX = 0f;
     private float speedY = 0f;
     public Rigidbody2D rb;
+    public SpriteRenderer spriteRenderer;
+    public Sprite kLeft;
+    public Sprite kRight;
+    public Sprite kFront;
+    public Sprite kBack;
     void Start()
     {
 
@@ -22,10 +27,12 @@ public class moveit : MonoBehaviour
         if (Keyboard.current.aKey.isPressed)
         {
             speedX = -moveSpeed;
+            spriteRenderer.sprite = kLeft;
         }
         else if (Keyboard.current.dKey.isPressed)
         {
             speedX = moveSpeed;
+            spriteRenderer.sprite = kRight;
         }
         else
         {
@@ -35,10 +42,12 @@ public class moveit : MonoBehaviour
         if (Keyboard.current.wKey.isPressed)
         {
             speedY = moveSpeed;
+            spriteRenderer.sprite = kBack;
         }
         else if (Keyboard.current.sKey.isPressed)
         {
             speedY = -moveSpeed;
+            spriteRenderer.sprite = kFront;
         }
         else
         {

@@ -389,7 +389,7 @@
 -r:"Library/PackageCache/com.unity.collab-proxy@4628d2ba6ea4/Lib/Editor/Unity.Plastic.Newtonsoft.Json.dll"
 -r:"Library/PackageCache/com.unity.collab-proxy@4628d2ba6ea4/Lib/Editor/log4netPlastic.dll"
 -r:"Library/PackageCache/com.unity.collab-proxy@4628d2ba6ea4/Lib/Editor/unityplastic.dll"
--r:"Library/PackageCache/com.unity.collections@84e8eb3fc12e/Unity.Collections.LowLevel.ILSupport/Unity.Collections.LowLevel.ILSupport.dll"
+-r:"Library/PackageCache/com.unity.collections@84e8eb3fc12e/LowLevel.ILSupport/Unity.Collections.LowLevel.ILSupport.dll"
 -r:"Library/PackageCache/com.unity.ext.nunit@031a54704bff/net40/unity-custom/nunit.framework.dll"
 -r:"Library/PackageCache/com.unity.ext.nunit@031a54704bff/net40/unity-custom/nunit.framework.dll"
 -r:"Library/PackageCache/com.unity.nuget.mono-cecil@ecb9724e46ff/Mono.Cecil.dll"

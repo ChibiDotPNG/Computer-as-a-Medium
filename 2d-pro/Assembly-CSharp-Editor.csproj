@@ -577,7 +577,7 @@
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.Collections.LowLevel.ILSupport">
-      <HintPath>Library\PackageCache\com.unity.collections@84e8eb3fc12e\Unity.Collections.LowLevel.ILSupport\Unity.Collections.LowLevel.ILSupport.dll</HintPath>
+      <HintPath>Library\PackageCache\com.unity.collections@84e8eb3fc12e\LowLevel.ILSupport\Unity.Collections.LowLevel.ILSupport.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="nunit.framework">
