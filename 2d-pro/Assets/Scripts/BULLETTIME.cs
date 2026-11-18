@@ -1,8 +1,9 @@
 using UnityEngine;
+using UnityEngine.InputSystem;
 
 public class BULLETTIME : MonoBehaviour
 {
-    public float speed = 10f;
+    public float speed = 100f;
     public float destroyTime = 3f;
     public Rigidbody2D rb;
     // Start is called once before the first execution of Update after the MonoBehaviour is created

@@ -455,6 +455,7 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.0.83f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
 "Assets/Scripts/BULLETTIME.cs"
 "Assets/Scripts/GameManager.cs"
+"Assets/Scripts/PlayerAttack.cs"
 "Assets/Scripts/PlayerHealth.cs"
 "Assets/Scripts/heal.cs"
 "Assets/Scripts/moveit.cs"
